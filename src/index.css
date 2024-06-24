@@ -34,3 +34,6 @@ html, body{
   width: 100%;
 }
 
+span{
+  display: inline-block;
+}
